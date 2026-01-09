@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/HomePage.qml</file>
+        <file>qml/MapPage.qml</file>
+        <file>html/map.html</file>
+    </qresource>
+</RCC>
+

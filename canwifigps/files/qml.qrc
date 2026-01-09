@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CanPage.qml</file>
+        <file>Wifi.qml</file>
+        <file>GpsPage.qml</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>

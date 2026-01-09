@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=CAN Viewer
+Exec=/usr/bin/canwifi
+Icon=applications-system
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Comment=Start at boot
+X-GNOME-Autostart-Delay=0
+
