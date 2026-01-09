@@ -1,0 +1,34 @@
+{
+    "escorts": {
+        "hp": "15",
+        "image": "qrc:/qt/qml/version1/images/tractor.png",
+        "model": "v105",
+        "name": "escorts",
+        "notes": "",
+        "width": "20"
+    },
+    "mahindra": {
+        "hp": "15",
+        "image": "qrc:/qt/qml/version1/images/tractor.png",
+        "model": "V5",
+        "name": "mahindra",
+        "notes": "",
+        "width": "20"
+    },
+    "v809": {
+        "hp": "10",
+        "image": "qrc:/qt/qml/version1/images/tractor.png",
+        "model": "tr",
+        "name": "v809",
+        "notes": "",
+        "width": "40"
+    },
+    "v9": {
+        "hp": "18",
+        "image": "qrc:/qt/qml/version1/images/tractor.png",
+        "model": "123",
+        "name": "v9",
+        "notes": "",
+        "width": "6"
+    }
+}
